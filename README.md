@@ -107,4 +107,4 @@ project_root/
 
 ## License
 
-MIT License.
+GNU License.

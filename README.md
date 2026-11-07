@@ -1,6 +1,6 @@
 # CP2K to ASE Extended XYZ Converter
 
-This project provides a Python script to convert CP2K output files (`output.out`) into the ASE Extended XYZ format (`output.xyz`).  
+This project provides a Python script to convert CP2K output files (`output.out`) into the ASE Extended XYZ format (`output.xyz`) which can be use later to create a dataset.  
 The converted data includes:
 
 - Lattice vectors
